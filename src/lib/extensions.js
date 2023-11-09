@@ -175,4 +175,11 @@ export default [
         creator: "jwklong",
         isGitHub: true,
     },
+    {
+        name: "Decimal +",
+        description: "Blocks for converting numbers into different bases (ex. hex, binary, etc)",
+        code: "MrNooberDude/decimal_plus.js",
+        creator: "MrNooberDude",
+        isGitHub: false,
+    },
 ];
